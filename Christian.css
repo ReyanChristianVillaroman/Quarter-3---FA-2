@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: gold;
+
+  } 
+   
+  h1, h2, p { 
+    color: red;
+  }
+  .presentation {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    max-width: 300px;
+  }
+  input[type="number"] {
+    padding: 10px;
+    margin: 10px 5px;
+    width: 120px;
+  }
+  button {
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: grey;
+    color: black;
+    border: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: greenyellow;
+  }
+  
